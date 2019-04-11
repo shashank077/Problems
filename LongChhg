@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	long N;
+	cin>>N;
+	if(N<=2&&N>=100000)
+	{
+	    return 000;
+	}
+	long arr[N];
+	for(int k=0;k<N;k++)
+	{
+	    cin>>arr[k];
+	}
+	long max=-1;
+	for(int i=0;i<N;i++)
+	{
+	        if(arr[i]>=max)
+	        {
+	            max=arr[i];
+	        }
+	}
+	long maxmod=-1;
+	for(int j=0;j<N;j++)
+	{
+	    if(arr[j]%max>=maxmod)
+	    {
+	        maxmod=arr[j]%max;
+	    }
+	}
+	cout<<maxmod;
+	return 0;
+}
