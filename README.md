@@ -7,3 +7,4 @@ Competitive Programming Problems (CODECHEF &amp; hackerrank)\
 [CEQUAL](https://www.codechef.com/problems/CEQUAL)\
 [FIBEASY](https://www.codechef.com/SEPT19B/problems/FIBEASY)\
 [SOLUTION]()
+[CATSDOGS](https://www.codechef.com/problems/CATSDOGS)
