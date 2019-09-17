@@ -6,5 +6,5 @@ Competitive Programming Problems (CODECHEF &amp; hackerrank)\
 [SOLUTION]()\
 [CEQUAL](https://www.codechef.com/problems/CEQUAL)\
 [FIBEASY](https://www.codechef.com/SEPT19B/problems/FIBEASY)\
-[SOLUTION]()
+[SOLUTION]()\
 [CATSDOGS](https://www.codechef.com/problems/CATSDOGS)
