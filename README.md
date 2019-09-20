@@ -6,4 +6,4 @@ Competitive Programming Problems (CODECHEF &amp; hackerrank)\
 [FIBEASY](https://www.codechef.com/SEPT19B/problems/FIBEASY)\
 [CATSDOGS](https://www.codechef.com/problems/CATSDOGS)\
 [BIT2A](https://www.codechef.com/BIT22019/problems/BIT2A)\
-[MATHL](https://www.codechef.com/BIT22019/problems/MATHL)\
+[MATHL](https://www.codechef.com/BIT22019/problems/MATHL)
