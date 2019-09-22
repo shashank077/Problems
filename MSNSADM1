@@ -1,0 +1,43 @@
+#include <iostream>
+#include <bits/stdc++.h>
+#define ll long long int
+using namespace std;
+//Shashank Kumar DIV
+int main()
+{
+    ll T;
+    cin>>T;
+    while(T!=0)
+    {
+        ll st=0;
+        cin>>st;
+        ll g[st];
+        ll f[st];
+        ll sum=0;
+        ll maxo=0;
+        for(ll i=0;i<st;i++)
+        {
+            cin>>g[i];
+        }
+         for(ll j=0;j<st;j++)
+        {
+            cin>>f[j];
+        }
+        for(ll k=0;k<st;k++)
+        {
+            sum=((g[k]*20)-(f[k]*10));
+            if(sum<=0)
+            {
+                sum=0;
+            }
+            if(sum>=maxo)
+            {
+                maxo=sum;
+            }
+        }
+        cout<<maxo<<endl;
+        T--;
+
+    }
+    return 0;
+}
