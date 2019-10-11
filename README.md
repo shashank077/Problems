@@ -11,6 +11,7 @@ Competitive Programming Problems (CODECHEF &amp; hackerrank)\
 [MATHL](https://www.codechef.com/BIT22019/problems/MATHL)\
 [MATCHES](https://www.codechef.com/COOK110B/problems/MATCHES)\
 [TWOGRS](https://www.codechef.com/COOK110B/problems/TWOGRS)\
-[MSNSADM1](https://www.codechef.com/AUG19B/problems/MSNSADM1)
+[MSNSADM1](https://www.codechef.com/AUG19B/problems/MSNSADM1)\
+[EXUNA](https://www.codechef.com/problems/EXUNA)
 
 
