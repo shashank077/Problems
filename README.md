@@ -12,6 +12,12 @@ Competitive Programming Problems (CODECHEF &amp; hackerrank)\
 [MATCHES](https://www.codechef.com/COOK110B/problems/MATCHES)\
 [TWOGRS](https://www.codechef.com/COOK110B/problems/TWOGRS)\
 [MSNSADM1](https://www.codechef.com/AUG19B/problems/MSNSADM1)\
-[EXUNA](https://www.codechef.com/problems/EXUNA)
+[EXUNA](https://www.codechef.com/problems/EXUNA)\
+[S10E]\(https://www.codechef.com)\
+[SAKTAN](https://www.codechef.com)\
+[MARM](https://www.codechef.com)\
+[MSV](https://www.codechef.com)\
+[EVENEDGES](https://www.codechef.com)\
+
 
 
