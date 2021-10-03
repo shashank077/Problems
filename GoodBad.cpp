@@ -70,7 +70,7 @@ int chef(string s,int k)
 
 int main()
 {
-	// freopen("input.txt","r",stdin);
+	
 	int t;
 	cin>>t;
 	while(t--)
