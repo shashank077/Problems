@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int n,k;
+    int n=0,k=0;
     cin>>n>>k;
     vector<pair<int,int>>v;
     int a,b;
