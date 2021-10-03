@@ -1,4 +1,4 @@
-# Please DO Not Spam Code
+# Spam PR's Will NOT be merged!
 ![alt text](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 ![alt text](https://github.com/shashank077/Problems/blob/master/a12b438012c5b6d241997ecabf1847cc.png)
 # MORE Problems COMING SOON
